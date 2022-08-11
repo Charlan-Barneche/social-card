@@ -1,6 +1,6 @@
 <body >
     <h1 align = 'center'><strong>Social Card</strong></h1>
-    <p align = 'center'>O projeto conta com JS CSS HTML5 seria uma otima opção para uma rede social por exemplo... para pesquisa de perfis rápida.</p>
+    <p align = 'center'>O projeto seria uma otima opção para uma rede social por exemplo... para pesquisa de perfis rápida.</p>
     <p>Para o projeto usei as seguintes tecnologias:</p>
     <div>
         <ul>
